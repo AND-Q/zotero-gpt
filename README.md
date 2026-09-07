@@ -13,7 +13,7 @@ An AI Assistant for Zotero
 Features about AI:  
 - [x] 🔗 **Integrate with Zotero**: You can use the plugin to search and ask items in the library based on the selected text or the PDF file.
 - [x] 🧠 Use LLMs to generate reply text: support OpenAI, DeepSeek and other compatible APIs
-- [x] 🏷️ [Command tags](https://github.com/AND-Q/zotero-assistant#command-tags): **Click once** to accelerate your research.  
+- [x] 🏷️ [Command tags](https://github.com/AND-Q/ZoteroAssistant#command-tags): **Click once** to accelerate your research.  
   - [x] 💬 Ask questions about current **PDF file** (full-text or selected text).
   - [x] 💬 Ask questions about **selected paper** (Abstract).
   - [x] 📝 **Summarize the selected paper** into several highly condensed sentences.

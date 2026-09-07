@@ -7,8 +7,8 @@
     "addonID": "zoteroassistant@and-q.org",
     "addonRef": "zoteroassistant",
     "addonInstance": "ZoteroAssistant",
-    "releasepage": "https://github.com/AND-Q/zotero-assistant/releases/latest/download/zotero-assistant.xpi",
-    "updaterdf": "https://raw.githubusercontent.com/AND-Q/zotero-assistant/main/update.json"
+    "releasepage": "https://github.com/AND-Q/ZoteroAssistant/releases/latest/download/zotero-assistant.xpi",
+    "updaterdf": "https://raw.githubusercontent.com/AND-Q/ZoteroAssistant/main/update.json"
   },
   "main": "src/index.ts",
   "scripts": {
@@ -28,14 +28,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AND-Q/zotero-assistant.git"
+    "url": "git+https://github.com/AND-Q/ZoteroAssistant.git"
   },
   "author": "AND-Q",
   "license": "AGPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/AND-Q/zotero-assistant/issues"
+    "url": "https://github.com/AND-Q/ZoteroAssistant/issues"
   },
-  "homepage": "https://github.com/AND-Q/zotero-assistant",
+  "homepage": "https://github.com/AND-Q/ZoteroAssistant",
   "dependencies": {
     "compute-cosine-similarity": "^1.0.0",
     "crypto-js": "^4.1.1",
